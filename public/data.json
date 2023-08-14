@@ -1,32 +1,37 @@
 [
   {
+    "id":1,
     "flight":"L03931",
      "time":"08:20",
      "direction":"Warszawa",
-     "status":"ON Time"
+     "status":"Delayed"
   },
   {
+    "id":2,
     "flight":"W62160",
      "time":"09:50",
-     "direction":"Oslo Torp",
+     "direction":"Oslo",
      "status":"ON Time"
   },
   {
+    "id":3,
     "flight":"L03933",
      "time":"13:10",
      "direction":"Warszawa",
      "status":"ON Time"
   },
   {
+    "id":4,
     "flight":"FR9676",
      "time":"17:05",
      "direction":"Liverpool",
-     "status":"ON Time"
+     "status":"Cancelled"
   },
   {
+    "id":"5",
     "flight":"FR2466",
      "time":"20:40",
-     "direction":"Londyn Stansted",
+     "direction":"Londyn",
      "status":"ON Time"
   }
 ]
